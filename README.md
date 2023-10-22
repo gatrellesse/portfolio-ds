@@ -31,3 +31,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gatrellesse.github.io/portfolio-ds/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baptista-trellesse-930673224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgq1V7a1BRLWTIjQhQAbxyA%3D%3D)
+
